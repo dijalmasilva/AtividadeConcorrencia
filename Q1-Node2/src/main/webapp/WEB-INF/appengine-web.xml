@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- [START config] -->
+<appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
+    <application>q1-node2-2016</application>
+    <version>v1</version>
+    <threadsafe>true</threadsafe>
+</appengine-web-app>
+<!-- [END config] -->
