@@ -11,6 +11,7 @@
         <module>Q2-Node1</module>
         <module>Q4-Node1</module>
         <module>Q6-Node1</module>
+        <module>Q7-Node1</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
