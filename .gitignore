@@ -10,6 +10,8 @@ Q8-Node1/target
 Q9-Node1/target
 Q10-Node1/target
 Q11-Node1/target
+Q11-Node2/target
+Q11-Node3/target
 Q12-Node1/target
 Q13-Node1/target
 Q14-Node1/target
@@ -27,3 +29,7 @@ Q15-Node1/target
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/questao11-node2/target/
+/q11-node2/target/
+/Q11-node2/target/
+/Q11-Node2/target/

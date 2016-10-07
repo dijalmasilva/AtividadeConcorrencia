@@ -1,0 +1,3 @@
+# Module questao11
+# RPC service class, partial path of RPC policy file
+ag.ifpb.pod.q11.client.GreetingService, 8E975E5BA1894226DEB7577F14C9F519.gwt.rpc

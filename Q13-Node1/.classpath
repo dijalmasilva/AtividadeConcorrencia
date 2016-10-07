@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" output="test-classes" path="test"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="/Volumes/MacintoshHDExt/ag.environment/gwt-2.7.0/gwt-user.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Volumes/MacintoshHDExt/ag.environment/gwt-2.7.0/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Volumes/MacintoshHDExt/ag.environment/gwt-2.7.0/gwt-codeserver.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Volumes/MacintoshHDExt/ag.environment/gwt-2.7.0/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Volumes/MacintoshHDExt/ag.environment/gwt-2.7.0/gwt-dev.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Volumes/MacintoshHDExt/ag.environment/gwt-2.7.0/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Volumes/MacintoshHDExt/ag.environment/gwt-2.7.0/validation-api-1.0.0.GA-sources.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacintoshHDExt/ag.environment/gwt-2.7.0/validation-api-1.0.0.GA.jar" sourcepath="/Volumes/MacintoshHDExt/ag.environment/gwt-2.7.0/validation-api-1.0.0.GA-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>

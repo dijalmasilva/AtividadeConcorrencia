@@ -1,0 +1,2 @@
+serviceClass: ag.ifpb.pod.q11.client.GreetingService
+path: 8E975E5BA1894226DEB7577F14C9F519.gwt.rpc

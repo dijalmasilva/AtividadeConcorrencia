@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+              http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+         version="2.5"
+         xmlns="http://java.sun.com/xml/ns/javaee">
+
+  <!-- Servlets -->
+  <servlet>
+    <servlet-name>PollingServlet</servlet-name>
+    <servlet-class>pod.polling.sample.PollingServlet</servlet-class>
+  </servlet>  
+  <servlet-mapping>
+    <servlet-name>PollingServlet</servlet-name>
+    <url-pattern>/polling</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>MessageServlet</servlet-name>
+    <servlet-class>pod.polling.sample.MessageServlet</servlet-class>
+  </servlet>  
+  <servlet-mapping>
+    <servlet-name>MessageServlet</servlet-name>
+    <url-pattern>/message</url-pattern>
+  </servlet-mapping>
+
+</web-app>
